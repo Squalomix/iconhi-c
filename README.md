@@ -16,4 +16,4 @@ Our Hi-C data production conducted by Dr. Mitsutaka Kadota has been performed fo
 | *Callithrix jacchus* | common marmoset|[Jayakumar et al. 2021](https://www.nature.com/articles/s41597-021-00935-6)|
 | *Stegostoma tigrinum* | zebra shark | [Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
 | *Rhincodon typus* | whale shark | [Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
-| *Taifugu niphobles* |  | [Kabir et al., 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119))|
+| *Takifugu niphobles* |  | [Kabir et al., 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119)|
