@@ -1,5 +1,4 @@
-# iconhi-c
-Record of our Hi-C data production
+## Record of our Hi-C data production in Squalomix
 
 # Protocol
 
