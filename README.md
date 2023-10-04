@@ -7,7 +7,7 @@ Our minireview paper overviewing our experience and discussing what makes differ
 Our protocol iconHi-C at [protocols.io](https://www.protocols.io/view/iconhi-c-protocol-ver-1-0-eq2lydr6elx9/v1).
 ## Species
 
-Our Hi-C data production conducted by Dr. Mitsutaka Kadota has been performed for diverse species including the species listed below.
+Our Hi-C data production has been performed for diverse species including the species listed below.
 
 | Species | Common name | Tissue | Publication |
 |----|----|----|----|
