@@ -9,11 +9,11 @@ Our protocol iconHi-C at [protocols.io](https://www.protocols.io/view/iconhi-c-p
 
 Our Hi-C data production conducted by Dr. Mitsutaka Kadota has been performed for diverse species including the species listed below.
 
-| Species | Common name | Publication |
-|----|----|----|
-|*Paroedura picta*|Madagascar ground gecko|[Yamaguchi et al., 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16146)|
-| *Macaca fascicularis*| macaque |[Jayakumar et al. 2021](https://www.nature.com/articles/s41597-021-00935-6)|
-| *Callithrix jacchus* | common marmoset|[Jayakumar et al. 2021](https://www.nature.com/articles/s41597-021-00935-6)|
-| *Stegostoma tigrinum* | zebra shark | [Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
-| *Rhincodon typus* | whale shark | [Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
-| *Takifugu niphobles* |  | [Kabir et al., 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119)|
+| Species | Common name | Tissue | Publication |
+|----|----|----|----|
+|*Paroedura picta*|Madagascar ground gecko| | [Yamaguchi et al., 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16146)|
+| *Macaca fascicularis*| macaque || [Jayakumar et al. 2021](https://www.nature.com/articles/s41597-021-00935-6)|
+| *Callithrix jacchus* | common marmoset|| [Jayakumar et al. 2021](https://www.nature.com/articles/s41597-021-00935-6)|
+| *Stegostoma tigrinum* | zebra shark |adult blood| [Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
+| *Rhincodon typus* | whale shark | adult blood|[Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
+| *Takifugu niphobles* |  | |[Kabir et al., 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119)|
