@@ -3,7 +3,7 @@
 ## Our protocol
 
 Our original paper reporting the iconHi-C protocol: [Kadota et al., Gigascience 2020](https://academic.oup.com/gigascience/article/9/1/giz158/5695848).<br>
-Our minireview paper overviewing our experience and discussing what makes differences: [Yamaguchi et al., Mol Ecol 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16146)
+Our minireview paper overviewing our experience and discussing what makes differences: [Yamaguchi et al., Mol Ecol 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16146).<br>
 Our protocol iconHi-C at [protocols.io](https://www.protocols.io/view/iconhi-c-protocol-ver-1-0-eq2lydr6elx9/v1)
 ## Species
 
