@@ -20,4 +20,4 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Halichoeres trimaculatus* | three-spot wrasse | adult female muscle | [Nozu et al.](https://www.biorxiv.org/content/10.1101/2023.07.09.545663v2.full) |
 | *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al.](https://www.biorxiv.org/content/10.1101/2023.10.16.562003v1) |
 
-Preparation of Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
+Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
