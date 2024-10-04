@@ -17,8 +17,8 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Stegostoma tigrinum* | zebra shark |adult blood| [Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
 | *Rhincodon typus* | whale shark | adult blood|[Yamaguchi et al., 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
 | *Takifugu niphobles* |  |adult liver|[Kabir et al., 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119)|
-| *Halichoeres trimaculatus* | three-spot wrasse | adult female muscle | [Nozu et al.](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166) |
-| *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al.](https://www.biorxiv.org/content/10.1101/2023.10.16.562003v1) |
+| *Halichoeres trimaculatus* | three-spot wrasse | adult female muscle | [Nozu et al.2024](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166) |
+| *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al. 2024](https://www.biorxiv.org/content/10.1101/2023.10.16.562003v1) |
 | *Geotria australis* | pouched lamprey|adult liver||
 | *Mordacia mordax* | short-headed lamprey|juvenile||
 
