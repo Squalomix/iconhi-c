@@ -22,5 +22,9 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Geotria australis* | pouched lamprey|adult liver||
 | *Mordacia mordax* | short-headed lamprey|juvenile||
 | *Hevea brasiliensis*|Para rubber tree| ||
+| *Hemitrygon akajei*|red stingray|muscle||
+| *Rhinoraja longicauda*|white-bellied softnose skate|liver||
+| *Scyliorhinus torazame*|cloudy catshark|muscle||
+| *Chiloscyllium punctatum*|brownbanded bamboo shark|muscle||
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
