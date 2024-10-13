@@ -21,5 +21,6 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al. 2024](https://www.biorxiv.org/content/10.1101/2023.10.16.562003v1) |
 | *Geotria australis* | pouched lamprey|adult liver||
 | *Mordacia mordax* | short-headed lamprey|juvenile||
+| *Hevea brasiliensis*|Para rubber tree| ||
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
