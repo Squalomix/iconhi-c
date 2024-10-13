@@ -25,6 +25,6 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Hemitrygon akajei*|red stingray|muscle||
 | *Rhinoraja longicauda*|white-bellied softnose skate|liver||
 | *Scyliorhinus torazame*|cloudy catshark|muscle||
-| *Chiloscyllium punctatum*|brownbanded bamboo shark|muscle||
+| *Chiloscyllium punctatum*|brownbanded bamboo shark|liver||
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
