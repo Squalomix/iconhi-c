@@ -23,11 +23,9 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Mordacia mordax* | short-headed lamprey|juvenile||
 | *Hevea brasiliensis*|Para rubber tree| ||
 | *Hemitrygon akajei*|red stingray|muscle||
-| *Somniosus microcephalus* |Greenland shark |fin|[Yang et al., bioRxiv] (https://www.ncbi.nlm.nih.gov/sra/SRX27558889[accn])|
-| *Scyliorhinus torazame* |cloudy catshark||[Niwa et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.13.642935v1.full)|
-| *Chiloscyllium punctatum* |brownbanded bamboo shark||[Niwa et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.13.642935v1.full)|
+| *Somniosus microcephalus* |Greenland shark |fin|[Yang et al., bioRxiv](https://www.ncbi.nlm.nih.gov/sra/SRX27558889[accn])|
+| *Scyliorhinus torazame* |cloudy catshark|muscle|[Niwa et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.13.642935v1.full)|
+| *Chiloscyllium punctatum* |brownbanded bamboo shark|liver|[Niwa et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.13.642935v1.full)|
 | *Rhinoraja longicauda*|white-bellied softnose skate|liver||
-| *Scyliorhinus torazame*|cloudy catshark|muscle||
-| *Chiloscyllium punctatum*|brownbanded bamboo shark|liver||
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
