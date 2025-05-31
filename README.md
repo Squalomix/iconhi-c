@@ -21,7 +21,7 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al. 2024](https://www.biorxiv.org/content/10.1101/2023.10.16.562003v1) |
 | *Geotria australis* | pouched lamprey|adult liver||
 | *Mordacia mordax* | short-headed lamprey|juvenile||
-| *Gasterosteus aculeatus* | three-spined stickleback | [Yamasaki et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/mec.17814) |
+| *Gasterosteus aculeatus/nipponicus* | three-spined stickleback | skeletal muscle | [Yamasaki et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/mec.17814) |
 | *Hevea brasiliensis*|Para rubber tree| ||
 | *Hemitrygon akajei*|red stingray|muscle||
 | *Somniosus microcephalus* |Greenland shark |fin|[Yang et al., bioRxiv](https://www.ncbi.nlm.nih.gov/sra/SRX27558889[accn])|
