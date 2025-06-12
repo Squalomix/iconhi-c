@@ -23,10 +23,10 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Mordacia mordax* | short-headed lamprey|juvenile||
 | *Gasterosteus aculeatus/nipponicus* | three-spined stickleback | skeletal muscle | [Yamasaki et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/mec.17814) |
 | *Hevea brasiliensis*|Para rubber tree| ||
-| *Hemitrygon akajei*|red stingray|muscle|[Kuraku et al., 2025](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
+| *Hemitrygon akajei*|red stingray|muscle|[Kuraku et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
 | *Somniosus microcephalus* |Greenland shark |fin|[Yang et al., bioRxiv](https://www.ncbi.nlm.nih.gov/sra/SRX27558889[accn])|
 | *Scyliorhinus torazame* |cloudy catshark|muscle|[Niwa et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.13.642935v1.full)|
 | *Chiloscyllium punctatum* |brownbanded bamboo shark|liver|[Niwa et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.13.642935v1.full)|
-| *Rhinoraja longicauda*|white-bellied softnose skate|liver|[Kuraku et al., 2025](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
+| *Rhinoraja longicauda*|white-bellied softnose skate|liver|[Kuraku et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
