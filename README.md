@@ -28,6 +28,6 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Scyliorhinus torazame* |cloudy catshark|muscle|[Niwa et al., 2025](https://www.pnas.org/doi/abs/10.1073/pnas.2513676122)|
 | *Chiloscyllium punctatum* |brownbanded bamboo shark|liver|[Niwa et al., 2025](https://www.pnas.org/doi/abs/10.1073/pnas.2513676122)|
 | *Rhinoraja longicauda*|white-bellied softnose skate|liver|[Kuraku et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
-| *Haliotis gigantea*|Pacific abalone|muscle\[Hirase et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.02.641744v1.full)|
+| *Haliotis gigantea*|Pacific abalone|muscle|[Hirase et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.02.641744v1.full)|
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
