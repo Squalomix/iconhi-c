@@ -16,7 +16,7 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Callithrix jacchus* | common marmoset|adult muscle| [Jayakumar et al. 2021](https://www.nature.com/articles/s41597-021-00935-6)|
 | *Stegostoma tigrinum* | zebra shark |adult blood| [Yamaguchi et al. 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
 | *Rhincodon typus* | whale shark | adult blood|[Yamaguchi et al. 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
-| *Takifugu niphobles* |  |adult liver|[Kabir et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119)|
+| *Takifugu niphobles* | grass puffer |adult liver|[Kabir et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119)|
 | *Halichoeres trimaculatus* | three-spot wrasse | adult female muscle | [Nozu et al. 2024](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166) |
 | *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al. 2024](https://doi.org/10.1093/dnares/dsae004) |
 | *Geotria australis* | pouched lamprey|adult liver||
