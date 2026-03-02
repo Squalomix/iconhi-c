@@ -18,7 +18,7 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Rhincodon typus* | whale shark | adult blood|[Yamaguchi et al. 2023](https://genome.cshlp.org/content/early/2023/08/17/gr.276840.122.abstract)|
 | *Takifugu niphobles* |  |adult liver|[Kabir et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2121469119)|
 | *Halichoeres trimaculatus* | three-spot wrasse | adult female muscle | [Nozu et al. 2024](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166) |
-| *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al. 2024](https://www.biorxiv.org/content/10.1101/2023.10.16.562003v1) |
+| *Cololabis saira* | Pacific saury | adult male muscle | [Sato et al. 2024](https://doi.org/10.1093/dnares/dsae004) |
 | *Geotria australis* | pouched lamprey|adult liver||
 | *Mordacia mordax* | short-headed lamprey|juvenile||
 | *Gasterosteus aculeatus/nipponicus* | three-spined stickleback | skeletal muscle | [Yamasaki et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/mec.17814) |
@@ -28,6 +28,7 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Scyliorhinus torazame* |cloudy catshark|muscle|[Niwa et al., 2025](https://www.pnas.org/doi/abs/10.1073/pnas.2513676122)|
 | *Chiloscyllium punctatum* |brownbanded bamboo shark|liver|[Niwa et al., 2025](https://www.pnas.org/doi/abs/10.1073/pnas.2513676122)|
 | *Rhinoraja longicauda*|white-bellied softnose skate|liver|[Kuraku et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
-| *Haliotis gigantea*|Pacific abalone|muscle|[Hirase et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.02.641744v1.full)|
+| *Haliotis gigantea*|Pacific abalone|muscle|[Hirase et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70057?af=R)|
+| *Chimaera phantasma*|silver chimaera|muscle|[Teramura et al., 2026](https://doi.org/10.1093/dnares/dsag003)|
 
 Preparation of these Hi-C libraries was conducted by Dr. Mitsutaka Kadota at RIKEN BDR with assistance by Kaori Tatsumi.
