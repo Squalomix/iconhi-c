@@ -24,7 +24,7 @@ Our Hi-C data production has been performed for diverse species including the sp
 | *Gasterosteus aculeatus/nipponicus* | three-spined stickleback | skeletal muscle | [Yamasaki et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/mec.17814) |
 | *Hevea brasiliensis*|Para rubber tree| |[Lau et al., 2025](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaf115/8280287)|
 | *Hemitrygon akajei*|red stingray|muscle|[Kuraku et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
-| *Somniosus microcephalus* |Greenland shark |fin|[Yang et al., bioRxiv](https://www.ncbi.nlm.nih.gov/sra/SRX27558889[accn])|
+| *Somniosus microcephalus* |Greenland shark |fin|[Yang et al., PNAS](https://www.pnas.org/doi/10.1073/pnas.2601272123)|
 | *Scyliorhinus torazame* |cloudy catshark|muscle|[Niwa et al., 2025](https://www.pnas.org/doi/abs/10.1073/pnas.2513676122)|
 | *Chiloscyllium punctatum* |brownbanded bamboo shark|liver|[Niwa et al., 2025](https://www.pnas.org/doi/abs/10.1073/pnas.2513676122)|
 | *Rhinoraja longicauda*|white-bellied softnose skate|liver|[Kuraku et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1)|
